@@ -1,2 +1,8 @@
-# ardupomodoro
-Pomodo timer on Arduino + LCD
+# Помидорка на Arduino+LCD
+
+![](photo.jpg)
+
+TODO...
+Описание конфигурация для сборки под arduino
+Выбор плат есть в сконфигурированном файле build_arduino/BoardOptions.cmake
+Сначала загрузить простые примерчики черех IDE, чтобы убиться, что настройки правильные
